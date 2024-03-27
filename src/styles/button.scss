@@ -1,0 +1,36 @@
+.button {
+    border-radius: 8px;
+    border: 1px solid #D0C2AA;
+    background: #FFF;
+    padding: 10px 16px;
+    color: #424242;
+    width: -webkit-fill-available;
+}
+
+.cta {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    padding: 10px 16px;
+
+    &-add {
+        border: none;
+        color: #FFF;
+        border-radius: 4px;
+        background: #A88650;
+    }
+
+    &-filter {
+        border-radius: 8px;
+        color: #8D7855;
+        border: 1px solid #8D7855;
+        background: #FFF;
+    }
+
+    &-export {
+        border-radius: 8px;
+        color: #9CA3AF;
+        border: 1px solid #9CA3AF;
+        background: #FFF;
+    }
+}

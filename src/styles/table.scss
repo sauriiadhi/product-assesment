@@ -1,0 +1,45 @@
+td{
+    padding: 12px 24px;
+    color: #424242
+}
+.d-flex{
+    display: flex;
+    align-items: center;
+}
+.background{
+    background: #F6F3EF;
+}
+table{
+    width: 100%;
+    border-spacing: 0px;
+    background-color: #fff;
+}
+tbody{
+    color: #424242
+}
+.table-top{
+    margin-top: 24px;
+}
+.pagination{
+    display: flex;
+    margin-top: 14px;
+    justify-content: center;
+}
+.tabs{
+    padding: 10px;
+    margin: 0 6px;
+    background: transparent;
+    border: none;
+}
+.active{
+   background: #6B7280 !important;
+   color: #fff !important;
+}
+.btn{
+    border-radius: 8px;
+    background: #FFF;
+    border: none;
+    padding: 10px;
+    margin: 0 6px;
+}
+
